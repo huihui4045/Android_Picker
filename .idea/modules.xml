@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_Picker.iml" filepath="$PROJECT_DIR$/Android_Picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorlibrary/colorlibrary.iml" filepath="$PROJECT_DIR$/colorlibrary/colorlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filelibrary/filelibrary.iml" filepath="$PROJECT_DIR$/filelibrary/filelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagelibrary/imagelibrary.iml" filepath="$PROJECT_DIR$/imagelibrary/imagelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheellibrary/wheellibrary.iml" filepath="$PROJECT_DIR$/wheellibrary/wheellibrary.iml" />
+    </modules>
+  </component>
+</project>
